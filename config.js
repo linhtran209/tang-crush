@@ -12,5 +12,5 @@ mconst CONFIG = {
     mess: 'Em biết mà 🥰. Nhớ anh nhiều nhiều 😘😘',
     messDesc: 'Hãy gặp nhau cho vơi nỗi nhớ',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messLink: 'https://career.mageplaza.com/' 
 }
