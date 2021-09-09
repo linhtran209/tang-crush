@@ -11,6 +11,6 @@ mconst CONFIG = {
     reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
     mess: 'Em biết mà 🥰. Nhớ anh nhiều nhiều 😘😘',
     messDesc: 'Hãy gặp nhau cho vơi nỗi nhớ',
-    btnAccept: 'Okiiiii lun <3',
+    btnAccept: 'Okiiii lun <3',
     messLink: 'https://career.mageplaza.com/' 
 }
